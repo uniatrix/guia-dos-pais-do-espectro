@@ -1,3 +1,9 @@
+Guia para pais do Espectro
+Welcome to the "Guia para pais do Espectro", a React-based website in brazilian portuguese aimed at providing valuable resources and guidance for parents of children on the autism spectrum.
+
+About
+This website serves as a comprehensive resource hub for parents, caregivers, and anyone involved in the journey of supporting children with autism spectrum disorder (ASD). Our goal is to offer a wealth of knowledge, curated by experts and informed by real-life experiences, to empower parents and caregivers in their roles.
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
 ## Getting Started
