@@ -1,4 +1,4 @@
-#Guia para pais do Espectro
+## Guia para pais do Espectro
 
 Welcome to the "Guia para pais do Espectro", a React-based website in brazilian portuguese aimed at providing valuable resources and guidance for parents of children on the autism spectrum.
 
